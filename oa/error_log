@@ -1,0 +1,4 @@
+[15-Oct-2020 20:11:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rignatcl/public_html/oa.cl/conx/cn.php on line 2
+[15-Oct-2020 20:11:30 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/rignatcl/public_html/oa.cl/conx/cn.php on line 3
+[15-Oct-2020 20:11:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rignatcl/public_html/oa.cl/1ba_av.php on line 161
+[15-Oct-2020 20:11:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rignatcl/public_html/oa.cl/1ba_av.php on line 163
